@@ -29,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisaintnishant&show_icons=true&locale=en" alt="thisaintnishant" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisaintnishant&" alt="thisaintnishant" /></p>
+
+![snake gif](https://github.com/ThisAintNishant/ThisAintNishant/blob/output/github-snake-dark.svg)
